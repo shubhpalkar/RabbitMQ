@@ -1,3 +1,5 @@
+YouTube Video Reference -: https://www.youtube.com/watch?v=dX-3R2TH5qE&list=PLZVBmpM0E_DHlA9Fz4QznfPjUKPIz48I7&index=1
+
 What is RabbitMQ?
 A full-fledged message broker, Implements AMQP protocol, Runs as a separate server, Language-agnostic.
 
